@@ -11,7 +11,7 @@
 		
 		
 		
-	<TextView android:text="\n\n\ndobavil iya vova rak" android:layout_width="wrap_content"
+	<TextView android:text="\n\n\ndobavil iya vova rak lol" android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 
 </RelativeLayout>
